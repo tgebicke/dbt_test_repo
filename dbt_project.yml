@@ -5,6 +5,9 @@
 name: 'dbt_demo_pro'
 version: '1.0.0'
 
+dbt-cloud:
+    project-id: 70471823399881
+
 # This setting configures which "profile" dbt uses for this project.
 profile: 'dbt_demo_pro'
 
